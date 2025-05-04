@@ -1,7 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
 import todo_img from "./../assets/todo_icon.png";
-import cust from "./../assets/cust.png";
-import port from "./../assets/port.png";
 import portTrans from "./../assets/portTrans.png";
 import TodoItems from "./TodoItems";
 
